@@ -14,3 +14,5 @@ If you find this code useful, please cite our paper:
   organization={IEEE}
 }
 ```
+
+If you are interested in the data used for training and validation, please send me a message here or via e-mail (nicolas.winkler[at]bam.de).
